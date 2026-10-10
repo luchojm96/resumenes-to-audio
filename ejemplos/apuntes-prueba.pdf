@@ -1,0 +1,60 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 7 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 788 >>
+stream
+BT
+/F1 18 Tf 1 0 0 1 60 730 Tm (Resumen de estudio: Redes de Computadoras) Tj
+/F1 12 Tf 1 0 0 1 60 693 Tm (Una red de computadoras es un conjunto de dispositivos conectados entre s\355 que) Tj
+/F1 12 Tf 1 0 0 1 60 676 Tm (comparten informaci\363n y recursos. Su objetivo principal es permitir la) Tj
+/F1 12 Tf 1 0 0 1 60 659 Tm (comunicaci\363n eficiente entre usuarios y sistemas, sin importar la distancia) Tj
+/F1 12 Tf 1 0 0 1 60 642 Tm (que los separe.) Tj
+/F1 12 Tf 1 0 0 1 60 611 Tm (El modelo OSI divide la comunicaci\363n en siete capas: f\355sica, enlace de datos,) Tj
+/F1 12 Tf 1 0 0 1 60 594 Tm (red, transporte, sesi\363n, presentaci\363n y aplicaci\363n. Cada capa ofrece servicios) Tj
+/F1 12 Tf 1 0 0 1 60 577 Tm (a la capa superior y utiliza los de la capa inferior.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 7 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 660 >>
+stream
+BT
+/F1 12 Tf 1 0 0 1 60 730 Tm (El protocolo TCP garantiza la entrega ordenada y confiable de los datos) Tj
+/F1 12 Tf 1 0 0 1 60 713 Tm (mediante confirmaciones y retransmisiones. En cambio, UDP prioriza la) Tj
+/F1 12 Tf 1 0 0 1 60 696 Tm (velocidad y no ofrece garant\355as de entrega, lo que lo hace ideal para audio y) Tj
+/F1 12 Tf 1 0 0 1 60 679 Tm (video en tiempo real.) Tj
+/F1 12 Tf 1 0 0 1 60 648 Tm (Una direcci\363n IP identifica de forma \372nica a un dispositivo dentro de una red.) Tj
+/F1 12 Tf 1 0 0 1 60 631 Tm (IPv4 usa 32 bits, mientras que IPv6 usa 128 bits para resolver el agotamiento) Tj
+/F1 12 Tf 1 0 0 1 60 614 Tm (de direcciones.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000001086 00000 n 
+0000001212 00000 n 
+0000001923 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+2020
+%%EOF
